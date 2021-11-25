@@ -1,0 +1,12 @@
+canvas  {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+h1, p {
+  position: absolute;
+  background-color: white;
+  font-family: sans-serif;
+}
+
